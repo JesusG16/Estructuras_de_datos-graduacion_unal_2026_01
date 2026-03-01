@@ -15,3 +15,18 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+# NetBeans
+nbproject/private/
+nbproject/project.properties
+nb-configuration.xml
+nbbuild/
+dist/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
